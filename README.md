@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕸️ Web Scraping Básico em Python
 
 Este projeto realiza scraping de sites para aprendizado de extração de dados.
@@ -22,3 +23,6 @@ Este projeto realiza scraping de sites para aprendizado de extração de dados.
 
 ## Licença
 MIT
+=======
+# web_scraping_py
+>>>>>>> e001753c4df977eecb7d5f2b16498f7fb8421568
